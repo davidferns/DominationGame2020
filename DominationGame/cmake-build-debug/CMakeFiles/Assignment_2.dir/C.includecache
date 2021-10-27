@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Fernandes/CLionProjects/Assignment_2/Stack.c
+Stack.h
+C:/Users/David Fernandes/CLionProjects/Assignment_2/Stack.h
+
+C:/Users/David Fernandes/CLionProjects/Assignment_2/Stack.h
+stdio.h
+-
+stdlib.h
+-
+cmake-build-debug/game_init.h
+C:/Users/David Fernandes/CLionProjects/Assignment_2/cmake-build-debug/game_init.h
+
+C:/Users/David Fernandes/CLionProjects/Assignment_2/cmake-build-debug/game_init.h
+
